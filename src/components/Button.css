@@ -1,0 +1,9 @@
+.my-button {
+    background-color: rgb(255, 239, 13);
+    box-shadow: 1.5px 2px 5px .5px rgba(0, 0, 0, 0.507);
+    text-shadow: .5px 1px 1px rgba(45,87,150,0.48);
+    height: 25px;
+    margin: 10px;
+    border-style: none;
+    border-radius: 3px;
+}
